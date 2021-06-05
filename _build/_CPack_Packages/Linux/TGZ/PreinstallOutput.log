@@ -1,5 +1,0 @@
-# Run command: /usr/bin/cmake --build . --target "preinstall"
-# Directory: /home/dgt20u186/dgt20u186/workspace/projects/lab06/_build
-# Output:
-make: *** Нет правила для сборки цели «preinstall».  Останов.
-
